@@ -1,0 +1,16 @@
+# Large data directories - deliberately kept outside workspace to save tokens
+football-data/
+data/
+attachments/
+*.parquet
+*.json
+__pycache__/
+*.pyc
+.env
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
